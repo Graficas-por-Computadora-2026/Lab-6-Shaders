@@ -12,7 +12,7 @@ Requisitos: Rust estable compatible con edition 2024, Cargo, compilador C/C++, C
 sudo apt install build-essential cmake libclang-dev pkg-config libx11-dev libxrandr-dev libxi-dev libxcursor-dev libxinerama-dev libgl1-mesa-dev
 ```
 
-Compilar y ejecutar desde la raíz del repositorio:e solicita evaluación de los siguientes siete efectos. Los valores de puntos corresponden al enunciado; su otorgamiento depende de lo que se aprecie en la evidencia.
+Compilar y ejecutar desde la raíz del repositorio:
 
 ```bash
 cargo build --release
